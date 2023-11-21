@@ -1,4 +1,6 @@
 # To-Do List Web Application
+<img width="871" alt="Screenshot 2023-11-21 at 11 05 54 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/65f77bd0-643d-48ee-bcd6-c36b5e705abd">
+
 
 Use cases:
 - use#105	update button binding	if the user checks the 'is complete' checkbox the update button disappears from the tuple
