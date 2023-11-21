@@ -1,5 +1,6 @@
 # To-Do List Web Application
-<img width="871" alt="Screenshot 2023-11-21 at 11 05 54 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/65f77bd0-643d-48ee-bcd6-c36b5e705abd">
+<img width="871" alt="Screenshot 2023-11-21 at 11 05 54 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/51b4a49c-34b4-4b6b-8184-13cbb3b6e746">
+
 
 
 Use cases:
