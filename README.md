@@ -1,8 +1,4 @@
 # To-Do List Web Application
-<img width="871" alt="Screenshot 2023-11-21 at 11 05 54 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/51b4a49c-34b4-4b6b-8184-13cbb3b6e746">
-
-
-
 Use cases:
 - use#105	update button binding	if the user checks the 'is complete' checkbox the update button disappears from the tuple
 - use#106	added tuple display	the new tuple added will display the provided entries from the dialog including the task, description, deadline, and priority as formatted and 
@@ -36,5 +32,14 @@ Use cases:
   button and date picker can be pre-populated as shown on the preview but not required)
 - use#124	tools	application uses an SPA framework like React, Vue, Angular and a materials library like MUI, Vuetify, Bootstrap 5
 
+#Screenshots
 
+<img width="871" alt="Screenshot 2023-11-21 at 11 05 54 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/cd1b11b5-8c0a-458c-8ca2-d233777afc1e">
 
+<img width="869" alt="Screenshot 2023-11-21 at 11 11 14 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/0c2775f5-c0a6-4cf0-8696-8a5a034171ba">
+
+<img width="864" alt="Screenshot 2023-11-21 at 11 11 26 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/74528355-a74f-4a57-9bf5-e54909949449">
+
+<img width="864" alt="Screenshot 2023-11-21 at 11 06 38 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/18c09372-a371-4273-88cf-5e8affa5ba26">
+
+<img width="867" alt="Screenshot 2023-11-21 at 11 06 20 AM" src="https://github.com/nicoguerra18/ToDoApp/assets/139820627/3c037449-0c7d-433a-b69f-6f0bc6d12322">
